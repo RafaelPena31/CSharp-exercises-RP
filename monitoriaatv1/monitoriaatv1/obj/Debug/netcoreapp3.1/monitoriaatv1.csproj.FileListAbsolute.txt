@@ -1,0 +1,13 @@
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\bin\Debug\netcoreapp3.1\monitoriaatv1.exe
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\bin\Debug\netcoreapp3.1\monitoriaatv1.deps.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\bin\Debug\netcoreapp3.1\monitoriaatv1.runtimeconfig.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\bin\Debug\netcoreapp3.1\monitoriaatv1.runtimeconfig.dev.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\bin\Debug\netcoreapp3.1\monitoriaatv1.dll
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\bin\Debug\netcoreapp3.1\monitoriaatv1.pdb
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\obj\Debug\netcoreapp3.1\monitoriaatv1.csprojAssemblyReference.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\obj\Debug\netcoreapp3.1\monitoriaatv1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\obj\Debug\netcoreapp3.1\monitoriaatv1.AssemblyInfoInputs.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\obj\Debug\netcoreapp3.1\monitoriaatv1.AssemblyInfo.cs
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\obj\Debug\netcoreapp3.1\monitoriaatv1.dll
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\obj\Debug\netcoreapp3.1\monitoriaatv1.pdb
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\monitoriaatv1\monitoriaatv1\obj\Debug\netcoreapp3.1\monitoriaatv1.genruntimeconfig.cache

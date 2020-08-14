@@ -1,0 +1,13 @@
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\bin\Debug\netcoreapp3.1\tep2c1.exe
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\bin\Debug\netcoreapp3.1\tep2c1.deps.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\bin\Debug\netcoreapp3.1\tep2c1.runtimeconfig.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\bin\Debug\netcoreapp3.1\tep2c1.runtimeconfig.dev.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\bin\Debug\netcoreapp3.1\tep2c1.dll
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\bin\Debug\netcoreapp3.1\tep2c1.pdb
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\obj\Debug\netcoreapp3.1\tep2c1.csprojAssemblyReference.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\obj\Debug\netcoreapp3.1\tep2c1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\obj\Debug\netcoreapp3.1\tep2c1.AssemblyInfoInputs.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\obj\Debug\netcoreapp3.1\tep2c1.AssemblyInfo.cs
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\obj\Debug\netcoreapp3.1\tep2c1.dll
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\obj\Debug\netcoreapp3.1\tep2c1.pdb
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\tep2c1\tep2c1\obj\Debug\netcoreapp3.1\tep2c1.genruntimeconfig.cache

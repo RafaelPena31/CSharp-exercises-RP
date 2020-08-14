@@ -1,0 +1,13 @@
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\bin\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.exe
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\bin\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.deps.json
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\bin\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.runtimeconfig.json
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\bin\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.runtimeconfig.dev.json
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\bin\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.dll
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\bin\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.pdb
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\obj\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.csprojAssemblyReference.cache
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\obj\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\obj\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.AssemblyInfoInputs.cache
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\obj\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.AssemblyInfo.cs
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\obj\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.dll
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\obj\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.pdb
+C:\Users\Rafael Pena\Documents\Project\COTEMIG - Tecnicas de programacao\AtvTEP\exe11_pag62_11901322_n41\exe11_pag62_11901322_n41\obj\Debug\netcoreapp3.1\exe11_pag62_11901322_n41.genruntimeconfig.cache

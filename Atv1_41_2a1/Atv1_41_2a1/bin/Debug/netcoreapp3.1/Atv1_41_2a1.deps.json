@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atv1_41_2a1/1.0.0": {
+        "runtime": {
+          "Atv1_41_2a1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atv1_41_2a1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

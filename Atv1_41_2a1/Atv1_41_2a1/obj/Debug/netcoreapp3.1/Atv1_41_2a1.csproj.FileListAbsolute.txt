@@ -1,0 +1,13 @@
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\bin\Debug\netcoreapp3.1\Atv1_41_2a1.exe
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\bin\Debug\netcoreapp3.1\Atv1_41_2a1.deps.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\bin\Debug\netcoreapp3.1\Atv1_41_2a1.runtimeconfig.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\bin\Debug\netcoreapp3.1\Atv1_41_2a1.runtimeconfig.dev.json
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\bin\Debug\netcoreapp3.1\Atv1_41_2a1.dll
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\bin\Debug\netcoreapp3.1\Atv1_41_2a1.pdb
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\obj\Debug\netcoreapp3.1\Atv1_41_2a1.csprojAssemblyReference.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\obj\Debug\netcoreapp3.1\Atv1_41_2a1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\obj\Debug\netcoreapp3.1\Atv1_41_2a1.AssemblyInfoInputs.cache
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\obj\Debug\netcoreapp3.1\Atv1_41_2a1.AssemblyInfo.cs
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\obj\Debug\netcoreapp3.1\Atv1_41_2a1.dll
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\obj\Debug\netcoreapp3.1\Atv1_41_2a1.pdb
+C:\Users\Rafael Pena\Documents\Project\TEP COTEMIG\AtvTEP\Atv1_41_2a1\Atv1_41_2a1\obj\Debug\netcoreapp3.1\Atv1_41_2a1.genruntimeconfig.cache
